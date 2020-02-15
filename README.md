@@ -20,7 +20,7 @@ Git
 Fixing size of used images / Layout adjustments
 
 ### Credits:
-Code development & teaching: codeinstitue.com 
-Publishing: Git, GitPod & GitHub 
-Graphics and content: Wikipedia  
+Code development & teaching: codeinstitue.com\
+Publishing: Git, GitPod & GitHub\
+Graphics and content: Wikipedia\
 Code validation: W3Consortium
